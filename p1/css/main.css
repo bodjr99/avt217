@@ -1,19 +1,19 @@
 body{
-    background-color:black;
+    background-color:yellow;
     font-size: 30px;
     text-align: center;
     font-family: 'Unlock' , sans-serif;
 h1{
-  color: yellow;
+  color: black;
   text-align: center;
 }
 h2{
-  color: yellow;
+  color: black;
   text-align: center;
 }
 
 p{
-  color: yellow;
+  color: black;
   text-align:center;
   font-size: 20px;
 }
