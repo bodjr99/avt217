@@ -5,16 +5,16 @@ body{
     font-family: 'Unlock' , sans-serif;
     background-image:url("lion.jpg");
 h1{
-  color: black;
+  color: red;
   text-align: center;
 }
 h2{
-  color: black;
+  color: red;
   text-align: center;
 }
 
 p{
-  color: black;
+  color: red;
   text-align:center;
   font-size: 20px;
 }
