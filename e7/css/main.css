@@ -1,0 +1,26 @@
+body{
+font-family:'Ballet', sans-serif;
+
+}
+h1 {
+  color: red;
+  text-align: center;
+}
+h2 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  color: black;
+  text-align:center;
+  font-size: 30px;
+}
+a{
+  color: #ff0000;
+  text-align: center;
+}
+a:hover {
+  color: blue
+
+}
