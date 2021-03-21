@@ -1,4 +1,4 @@
-.bSquare {
+#p1 .bSquare {
   width:100px;
   height:100px;
   background-color: blue;
@@ -7,7 +7,7 @@
   opacity: .75;
   float:left;
 }
-.rSquare {
+#p1.rSquare {
   width:100px;
   height:100px;
   background-color: red;
@@ -16,7 +16,7 @@
   opacity: .75;
   float:left;
 }
-.ySquare {
+#p1.ySquare {
   width:100px;
   height:100px;
   background-color: yellow;
@@ -25,7 +25,7 @@
   opacity: .75;
   float:left;
 }
-.bCircle {
+#p2 .bCircle {
   width:1000px;
   height:100px;
   background-color: black;
@@ -35,7 +35,7 @@
   float:left;
   border-radius: 50%;
 }
-.wCircle {
+#p2.wCircle {
   width:100px;
   height:100px;
   background-color: white;
