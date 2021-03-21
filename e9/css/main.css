@@ -28,7 +28,7 @@
 .bCircle {
   width:1000px;
   height:100px;
-  background-color: yellow;
+  background-color: black;
   border: 10px solid: black;
   margin: -15px;
   opacity: .75;
@@ -38,7 +38,7 @@
 .wCircle {
   width:100px;
   height:100px;
-  background-color: yellow;
+  background-color: white;
   border: 10px solid: black;
   margin: -15px;
   opacity: .75;
