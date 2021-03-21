@@ -26,22 +26,22 @@
   float:left;
 }
 #p2 .bCircle {
-  width:1000px;
+  width:50px;
   height:100px;
   background-color: black;
   border: 10px solid: black;
   margin: -3px 6px;
-  opacity: .75;
+  opacity: .5;
   float:left;
   border-radius: 50%;
 }
 #p2.wCircle {
-  width:100px;
+  width:10px;
   height:100px;
   background-color: white;
   border: 10px solid: black;
   margin: -15px -100px;
-  opacity: .75;
+  opacity: .5;
   float:left;
   border-radius: 50%;
 }
