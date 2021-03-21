@@ -1,7 +1,25 @@
-div {
+.bSquare {
   width:100px;
   height:100px;
   background-color: blue;
+  border: 10px solid: black;
+  margin: -15px;
+  opacity: .75;
+  float:left;
+}
+.rSquare {
+  width:100px;
+  height:100px;
+  background-color: red;
+  border: 10px solid: black;
+  margin: -15px;
+  opacity: .75;
+  float:left;
+}
+.ySquare {
+  width:100px;
+  height:100px;
+  background-color: yellow;
   border: 10px solid: black;
   margin: -15px;
   opacity: .75;
