@@ -25,3 +25,21 @@
   opacity: .75;
   float:left;
 }
+.bCircle {
+  width:1000px;
+  height:100px;
+  background-color: yellow;
+  border: 10px solid: black;
+  margin: -15px;
+  opacity: .75;
+  float:left;
+}
+.wCircle {
+  width:100px;
+  height:100px;
+  background-color: yellow;
+  border: 10px solid: black;
+  margin: -15px;
+  opacity: .75;
+  float:left;
+}
