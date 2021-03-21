@@ -33,7 +33,7 @@
   margin: -15px;
   opacity: .75;
   float:left;
-  border-radius: 50px;
+  border-radius: 50%;
 }
 .wCircle {
   width:100px;
@@ -43,5 +43,5 @@
   margin: -15px;
   opacity: .75;
   float:left;
-  border-radius: 100px;
+  border-radius: 100%;
 }
