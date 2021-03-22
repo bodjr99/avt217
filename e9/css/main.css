@@ -7,7 +7,7 @@
   opacity: .75;
   float:left;
 }
-#p1.rSquare {
+#p1 .rSquare {
   width:100px;
   height:100px;
   background-color: red;
@@ -16,7 +16,7 @@
   opacity: .75;
   float:left;
 }
-#p1.ySquare {
+#p1 .ySquare {
   width:100px;
   height:100px;
   background-color: yellow;
