@@ -35,10 +35,21 @@
   float:left;
   border-radius: 50%;
 }
-#p2.wCircle {
+
+#p2.cCircle {
   width:10px;
   height:100px;
-  background-color: white;
+  background-color: cyan;
+  border: 10px solid: black;
+  margin: -15px;
+  opacity: .75;
+  float:left;
+  border-radius: 50%;
+}
+#p2.gCircle {
+  width:10px;
+  height:100px;
+  background-color: green;
   border: 10px solid: black;
   margin: -15px;
   opacity: .75;
