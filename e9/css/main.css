@@ -26,7 +26,7 @@
   float:left;
 }
 #p2 .bCircle {
-  width:50px;
+  width:100px;
   height:100px;
   background-color: black;
   border: 10px solid: black;
@@ -37,7 +37,7 @@
 }
 
 #p2.cCircle {
-  width:10px;
+  width:100px;
   height:100px;
   background-color: cyan;
   border: 10px solid: black;
@@ -46,10 +46,21 @@
   float:left;
   border-radius: 50%;
 }
+
 #p2.gCircle {
-  width:10px;
+  width:100px;
   height:100px;
   background-color: green;
+  border: 10px solid: black;
+  margin: -15px;
+  opacity: .75;
+  float:left;
+  border-radius: 50%;
+}
+#p2.wCircle {
+  width:100px;
+  height:100px;
+  background-color: white;
   border: 10px solid: black;
   margin: -15px;
   opacity: .75;
