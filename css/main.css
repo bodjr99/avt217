@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 16px;
+}
+
+body{
+  background-color: blue;
+  text-align: center;
+  font-family: 'Press Start 2P', sans-serif;
+
+}
+h1{
+  font-size:4rem;
+  text-align: left;
+  font-family: 'Press Start 2P', monospace;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+h3{
+  font-size:2rem;
+  text-align: left;
+  font-family: 'Press Start 2P', monospace;
+  font-weight: 600;
+  text-transform: uppercase;
+}
