@@ -12,6 +12,14 @@ body{
   font-family: 'Press Start 2P', sans-serif;
 
 }
+header{
+  width:75vw;
+  margin:25px auto;
+}
+.col{
+  width:50%;
+  float:left;
+}
 h1{
   font-size:4rem;
   text-align: left;
