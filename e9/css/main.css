@@ -66,3 +66,31 @@
   float:left;
   border-radius: 50%;
 }
+#p3.oSquare {
+  width:100px;
+  height:100px;
+  background-color: orange;
+  border: 10px solid: black;
+  margin: -15px -4.50px;
+  opacity: .5;
+  float:left;
+  transform: rotate(20deg);
+}
+#p3.pSquare {
+  width:100px;
+  height:100px;
+  background-color: pink;
+  margin: -15px;
+  opacity: .5;
+  float:left;
+  border-radius: 50%;
+}
+#p3.kSquare {
+  width:100px;
+  height:100px;
+  background-color: black;
+  margin: -15px;
+  opacity: .5;
+  float:left;
+  border-radius: 50%;
+}
