@@ -116,3 +116,41 @@
   border-color: 5px solid: black;
 
 }
+#p5.circle1{
+  width:200px;
+  height:200px;
+  background-color:green;
+  margin: -15px -4.30px;
+  opacity: .5;
+  float: left;
+  border-radius: 50%;
+  border-color: 5px solid black;
+}
+#p5.circle2{
+  width:400px;
+  height:400px;
+  background-color:red;
+  margin: -15px;
+  opacity: .5;
+  float: left;
+  border-radius: 50%;
+  border-color: 5px solid black;
+}
+#p5.square1{
+  width:300px;
+  height:200px;
+  background-color:blue;
+  margin: -15px -4.30px;
+  opacity: .5;
+  float: left;
+  transform:rotate(30deg);
+}
+#p5.square2{
+  width:300px;
+  height:200px;
+  background-color:yellow;
+  margin: -15px -4.30px;
+  opacity: .5;
+  float: left;
+  transform:rotate(30deg);
+}
