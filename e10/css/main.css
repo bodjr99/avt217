@@ -14,3 +14,34 @@
 .board {
   width: 800px;
   display: flow-root;
+  /* 3 Column Grid */
+  .threecolumns {
+    box-sizing: border-box;
+    width: 700px;
+    height: auto;
+    margin: 5px auto;
+    display: flow-root;
+  }
+  .header {
+    box-sizing: border-box;
+    width: 600px;
+    height:100px;
+    background-color: white;
+    margin: 5px auto;
+  }
+  .column {
+    box-sizing: border-box;
+    width: 300px;
+    height: 600pxx;
+    background-color: red;
+    margin: 5px;
+    float: left;
+  }
+  .margins{
+    box-sizing: border-box;
+    height: 5px;
+    width: 700px;
+    background-color: white;
+    margin: 5px;
+    float: left;
+  }
