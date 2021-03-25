@@ -115,10 +115,10 @@ text-align:center;
   background-color: blue;
 }
 .layout1 {
-  width: 500px;
+  width: 490px;
   display: flow-root;
 }
 .layout2 {
-  width: 100px;
+  width: 200px;
   display: flow-root;
 }
