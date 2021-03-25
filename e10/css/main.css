@@ -41,7 +41,7 @@ text-align:center;
   background-color: red;
   margin: 5px auto;
 }
-.col {
+.col1,.col2 ,.col3 {
   box-sizing: border-box;
   width: 260px;
   height: 600px;
