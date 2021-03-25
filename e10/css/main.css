@@ -39,7 +39,7 @@ text-align:center;
   box-sizing: border-box;
   width: 800px;
   height:100px;
-  background-color: red;
+  background-color: yellow;
   margin: 5px auto;
 }
 .col {
@@ -64,7 +64,7 @@ text-align:center;
   height: 120px;
   margin-left: 10px;
   margin-bottom: 40px;
-  background-color: blue;
+  background-color:blue ;
 }
 .square1 {
   width: 490px;
@@ -104,7 +104,7 @@ text-align:center;
   margin-top: -830px;
   margin-bottom: 240px;
   padding-top: 100px;
-  background-color: yellow;
+  background-color: blue;
 }
 .square6 {
   width: 180px;
@@ -112,13 +112,13 @@ text-align:center;
   margin-left: 530px;
   margin-bottom: 10px;
   padding-top: 100px;
-  background-color: yellow;
+  background-color: blue;
 }
 .layout1 {
-  width: 490px;
+  width: 500px;
   display: flow-root;
 }
 .layout2 {
-  width: 200px;
+  width: 100px;
   display: flow-root;
 }
