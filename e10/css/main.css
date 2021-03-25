@@ -14,13 +14,16 @@
 .board {
   width: 800px;
   display: flow-root;
+
   /* 3 Column Grid */
-  .threecolumns {
-    box-sizing: border-box;
-    width: 700px;
-    height: auto;
-    margin: 5px auto;
-    display: flow-root;
+
+  . threecolumns {
+  box-sizing: border-box;
+  width: 800px;
+  height: auto;
+  margin: 5px auto;
+  display: flow-root;
+
   }
   .header {
     box-sizing: border-box;
