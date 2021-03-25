@@ -21,32 +21,31 @@
 
   .threecolumn {
   box-sizing: border-box;
-  width: 800px;
+  width: 810px;
   height: auto;
   margin: 5px auto;
   display: flow-root;
-
-  }
-  .header {
-    box-sizing: border-box;
-    width: 600px;
-    height:100px;
-    background-color: red;
-    margin: 5px auto;
-  }
-  .col {
-    box-sizing: border-box;
-    width: 300px;
-    height: 600px;
-    background-color: red;
-    margin: 5px;
-    float: left;
-  }
-  .marg{
-    box-sizing: border-box;
-    height: 5px;
-    width: 700px;
-    background-color: red;
-    margin: 5px;
-    float: left;
-  }
+}
+.headfoot {
+  box-sizing: border-box;
+  width: 800px;
+  height:100px;
+  background-color: red;
+  margin: 5px auto;
+}
+.col {
+  box-sizing: border-box;
+  width: 260px;
+  height: 600px;
+  background-color: red;
+  margin: 5px;
+  float: left;
+}
+.marg {
+  box-sizing: border-box;
+  height: 25px;
+  width: 800px;
+  background-color: red;
+  margin: 5px;
+  float: left;
+}
