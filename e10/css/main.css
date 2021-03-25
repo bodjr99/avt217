@@ -58,3 +58,67 @@ text-align:center;
   margin: 5px auto;
   float: left;
 }
+/*Blog */
+.head {
+  width: 700px;
+  height: 120px;
+  margin-left: 10px;
+  margin-bottom: 40px;
+  background-color: blue;
+}
+.square1 {
+  width: 490px;
+  height: 300px;
+  margin-left: 10px;
+  margin-top: 40px;
+  background-color: red;
+}
+.square2 {
+  width: 490px;
+  height: 30px;
+  margin-left: 10px;
+  margin-bottom: 50px;
+  margin-top: 10px;
+  background-color: red;
+}
+.square3 {
+  width: 490px;
+  height: 300px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 100px;
+  background-color: red;
+}
+.square4 {
+  width: 490px;
+  height: 30px;
+  margin-left: 10px;
+  margin-bottom: 50px;
+  margin-top: 10px;
+  background-color: red;
+}
+.square5 {
+  width: 180px;
+  height: 100px;
+  margin-left: 530px;
+  margin-top: -830px;
+  margin-bottom: 240px;
+  padding-top: 100px;
+  background-color: yellow;
+}
+.square6 {
+  width: 180px;
+  height: 100px;
+  margin-left: 530px;
+  margin-bottom: 10px;
+  padding-top: 100px;
+  background-color: yellow;
+}
+.layout1 {
+  width: 490px;
+  display: flow-root;
+}
+.layout2 {
+  width: 200px;
+  display: flow-root;
+}
