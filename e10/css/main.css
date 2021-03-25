@@ -1,6 +1,7 @@
 body{
 background-color:white;
 text-align:center;
+color:red;
 
 }
 
@@ -41,7 +42,7 @@ text-align:center;
   background-color: red;
   margin: 5px auto;
 }
-.col,.col ,.col {
+.col {
   box-sizing: border-box;
   width: 260px;
   height: 600px;
