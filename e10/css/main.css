@@ -41,7 +41,7 @@ text-align:center;
   background-color: red;
   margin: 5px auto;
 }
-.col {
+.column {
   box-sizing: border-box;
   width: 260px;
   height: 600px;
@@ -49,7 +49,7 @@ text-align:center;
   margin: 5px;
   float: left;
 }
-.marg {
+.margin {
   box-sizing: border-box;
   height: 25px;
   width: 800px;
